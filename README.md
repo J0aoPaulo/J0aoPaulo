@@ -1,4 +1,4 @@
-## Opa, sou o João Paulo 
+## Opa, seja bem vindo!
 
 <div align="center">
   <a href="https://github.com/J0aoPaulo">
@@ -8,5 +8,5 @@
 
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg">
+  <img align="center" alt="Rafa-Js" height="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg">
 </div>
