@@ -11,7 +11,7 @@
 </div>
 <div style="display: inline_block"><br>
   
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=yellow-green&size=28&justify=true&justify=true&width=460&lines=Dev+front-end+em+progresso.;)](https://git.io/typing-svg)/
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=yellow-green&size=28&justify=true&justify=true&width=460&lines=Dev+front-end+em+progresso.;)](https://git.io/typing-svg)
   
   <img align="justify" alt="JP-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="justify" alt="JP-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
