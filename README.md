@@ -14,7 +14,7 @@
 <img align="center" alt="Jp-GIT" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
 <img align="center" alt="Jp-JAVA" height="53" width="58" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 <img align="right" alt="Carol-GIF" height="150" width="170" src="https://i.pinimg.com/originals/1a/56/ea/1a56eaaaf78869d7c6e0e620b2b98394.gif">
-<img align="center" alt="Carol-GIF" height="55" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
+<img align="center" alt="Carol-GIF" height="52" width="57" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
 <img align="center" alt="Carol-GIF" height="83" width="93" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg">
 <img align="center" alt="Carol-GIF" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
 <img align="center" alt="Carol-GIF" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg">
