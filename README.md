@@ -5,9 +5,6 @@
 <img height="140em" src="https://github-readme-stats.vercel.app/api?username=J0aoPaulo&show_icons=true&theme=dark"/>
 <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J0aoPaulo&layout=compact&theme=dark"/>
 </div>
-
-  <div style="display: inline_block"><br>
-<img align="right" alt="Carol-GIF" height="130" width="150" src="https://i.pinimg.com/originals/1a/56/ea/1a56eaaaf78869d7c6e0e620b2b98394.gif">
   
  ## 🔧 Tools
 
@@ -19,6 +16,9 @@
 </div>
 
 </div>
+
+  <div style="display: inline_block"><br>
+<img align="right" alt="Carol-GIF" height="130" width="150" src="https://i.pinimg.com/originals/1a/56/ea/1a56eaaaf78869d7c6e0e620b2b98394.gif">
   
   ## 🫱🏻‍🫲🏽 Entre em contato comigo
   <div>
