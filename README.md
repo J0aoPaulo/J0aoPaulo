@@ -6,20 +6,20 @@
 <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J0aoPaulo&layout=compact&theme=dark"/>
 </div>
   
- ## 🔧 Tools
+ ## 🔧 Ferramentas e stacks que obtive contato
 
 <!-- https://github.com/tandpfun/skill-icons -->
 <div align="center">
-  
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,spring,mongodb,postgres,sqlite,git&theme=dark&perline=10)](https://skillicons.dev)
-
-</div>
-
-</div>
 
   <div style="display: inline_block"><br>
 <img align="right" alt="Carol-GIF" height="130" width="150" src="https://i.pinimg.com/originals/1a/56/ea/1a56eaaaf78869d7c6e0e620b2b98394.gif">
   
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,spring,mongodb,postgres,sqlite,git&theme=dark&perline=8)](https://skillicons.dev)
+
+</div>
+
+</div>
+
   ## 🫱🏻‍🫲🏽 Entre em contato comigo
   <div>
     <a href="https://www.instagram.com/_ojoao.almeida/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
