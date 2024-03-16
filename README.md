@@ -12,7 +12,7 @@
 <div align="center">
 
   <div style="display: inline_block"><br>
-<img align="right" alt="Carol-GIF" height="130" width="150" src="https://i.pinimg.com/originals/1a/56/ea/1a56eaaaf78869d7c6e0e620b2b98394.gif">
+<img align="up" alt="Carol-GIF" height="120" width="130" src="https://i.pinimg.com/originals/1a/56/ea/1a56eaaaf78869d7c6e0e620b2b98394.gif">
   
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,spring,mongodb,postgres,sqlite,git&theme=dark&perline=8)](https://skillicons.dev)
 
