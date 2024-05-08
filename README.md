@@ -1,4 +1,4 @@
-## 👋🏽 Opa, seja bem vindo!
+## Opa, seja bem vindo!
 
 <div align="center">
 <a href="https://github.com/J0aoPaulo">
