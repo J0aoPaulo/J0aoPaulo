@@ -1,27 +1,27 @@
-## Opa, seja bem vindo!
+<div id="top"></div>
+
+<h3 align="center">
+  Opa, seja bem vindo(a)!
+  <img src="https://raw.githubusercontent.com/J0aoPaulo/J0aoPaulo/master/icons/wave.gif" width="30" height="30">
+</h3>
 
 <div align="center">
-<a href="https://github.com/J0aoPaulo">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=J0aoPaulo&show_icons=true&theme=dark&hide_rank=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J0aoPaulo&layout=compact&theme=dark"/>
-</div>
-  
- ## 
-
-<!-- https://github.com/tandpfun/skill-icons -->
-<div align="center">
-
-  <div style="display: inline_block"><br>
-<img align="up" alt="Carol-GIF" height="120" width="130" src="https://i.pinimg.com/originals/1a/56/ea/1a56eaaaf78869d7c6e0e620b2b98394.gif">
-  
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,spring,mongodb,postgres,sqlite,git&theme=dark&perline=8)](https://skillicons.dev)
-
+  <!--- https://readme-typing-svg.herokuapp.com --->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Work+Sans&size=24&duration=2500&color=007bff&center=true&vCenter=true&width=500&lines=Backend+Developer;Information+System" alt="Typing SVG">
+  </a>
 </div>
 
-</div>
+## 📘 Projetos principais
 
-  ## 
-  <div align="center">
-    <a href="https://www.instagram.com/_ojoao.almeida/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-      <a href="https://www.linkedin.com/in/joaopaulo23/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="mailto:ojoaopaulo1324@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+<!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+
+<p align="center">
+
+<a href="https://github.com/J0aoPaulo/currency-converter">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=J0aoPaulo&repo=currency-converter&theme=react&bg_color=00000f&title_color=007bff&icon_color=F8D866&hide_border=false&show_icons=false">
+  <img width="272" height="135" alt="currency-converter" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=J0aoPaulo&repo=currency-converter&theme=react&bg_color=f6f8fa&title_color=007bff&icon_color=F8D866&hide_border=false&show_icons=true&text_color=000000">
+</picture>
+</a>
