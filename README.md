@@ -14,7 +14,7 @@
   <div style="display: inline_block"><br>
 <img align="up" alt="Carol-GIF" height="120" width="130" src="https://i.pinimg.com/originals/1a/56/ea/1a56eaaaf78869d7c6e0e620b2b98394.gif">
   
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,spring,mongodb,hibernate,postgres,sqlite,git,ubuntu,mysql&theme=dark&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,java,spring,mysql,hibernate,ubuntu,cpp,sqlite,git,mongodb&theme=dark&perline=5)](https://skillicons.dev)
 
 </div>
 
