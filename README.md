@@ -1,8 +1,7 @@
 <div align="center">
   
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> hello, I'm João Paulo! </h2>
-
-<div align="left">
+<div align="center">
 <p><i>
 I'm a Backend developer, passionate about technology since I was a child. My professional career is marked by the development of personal and academic projects, using technologies such as Java, Spring Boot, PostgreSQL, MySQL among other technologies. My ability to learn quickly allows me to adapt to new content and challenges efficiently and i am always ready to apply the tools and knowledge I have to solve problems in a creative and effective way. My current goal is to become a fullstack developer.
 </i></p>
