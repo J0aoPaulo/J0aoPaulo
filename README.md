@@ -7,7 +7,7 @@
 I'm a Backend developer, passionate about technology since I was a child. My professional career is marked by the development of personal and academic projects, using technologies such as Java, Spring Boot, PostgreSQL, MySQL among other technologies. My ability to learn quickly allows me to adapt to new content and challenges efficiently and i am always ready to apply the tools and knowledge I have to solve problems in a creative and effective way. My current goal is to become a fullstack developer.
 </i></p>
 
-## 🛠 Technologies and tools 
+## 🛠 Technologies and tools:
 
 <img align="center" alt="Carol-GIF" height="120" width="130" src="https://i.pinimg.com/originals/1a/56/ea/1a56eaaaf78869d7c6e0e620b2b98394.gif">
   
@@ -31,4 +31,10 @@ I'm a Backend developer, passionate about technology since I was a child. My pro
     <a href="https://www.instagram.com/_ojoao.almeida/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
       <a href="https://www.linkedin.com/in/joaopaulo23/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="mailto:contato.joaopaulodeveloper@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+## 📊 GitHub Stats:
+<a href="https://github.com/J0aoPaulo">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=J0aoPaulo&show_icons=true&theme=dark&hide_rank=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J0aoPaulo&layout=compact&theme=dark"/>
+</div>
 
