@@ -2,10 +2,10 @@
   
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> hello, I'm João Paulo! </h2>
 <div align="center">
-<p>◆ i'm a backend developer, passionate about technology since I was a child. ◇</p>
-<p>◆ my career is marked by the development using technologies such as Java, Spring Boot among other technologies. ◇</p>
+<p>◆ i'm a backend developer, passionate about technology since i was a child. ◇</p>
+<p>◆ my career is marked by the development using technologies such as java, spring boot among other technologies. ◇</p>
 <p>◆ my ability to learn quickly allows me to adapt to new content and challenges efficiently. ◇</p>
-<p>◆ currently studying cloud, Docker, and DevOps technologies. ◇</p>
+<p>◆ currently studying cloud, docker, and devops technologies. ◇</p>
 <p>◆ btw, i love music... like, for real.◇</p>
 </div>
 
