@@ -3,7 +3,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> hello, I'm João Paulo! </h2>
 <div align="center">
 <p>◆ i'm a backend developer, passionate about technology since i was a child. ◇</p>
-<p>◆ my career is marked by the development using technologies such as java, spring boot among other technologies. ◇</p>
+<p>◆ my career is marked by the development using technologies such as java, spring boot among others stacks ◇</p>
 <p>◆ my ability to learn quickly allows me to adapt to new content and challenges efficiently. ◇</p>
 <p>◆ currently studying cloud, docker, and devops technologies. ◇</p>
 <p>◆ btw, i love music... like, for real.◇</p>
@@ -26,6 +26,20 @@
 ![git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
 ![flyway](https://img.shields.io/badge/Flyway-CC0200.svg?style=for-the-badge&logo=Flyway&logoColor=white)
 ![hibernate](https://img.shields.io/badge/Hibernate-59666C.svg?style=for-the-badge&logo=Hibernate&logoColor=white)
+
+## Main projects:
+
+<p align="center">
+  <a href="https://github.com/J0aoPaulo/hermes">
+    <img width="278" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=J0aoPaulo&repo=hermes&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="rest-api-forum">
+  </a>
+  <a href="https://github.com/J0aoPaulo/rest-api-forum">
+    <img width="300" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=J0aoPaulo&repo=rest-api-forum&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="rest-api-forum">
+  </a>
+  <a href="https://github.com/J0aoPaulo/med-consult-api">
+    <img width="300" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=J0aoPaulo&repo=med-consult-api&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="med-consult-api">
+  </a>
+</p>
 
 ## 📬 Connect with me! 
 </div>
