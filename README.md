@@ -27,6 +27,10 @@
 ![flyway](https://img.shields.io/badge/Flyway-CC0200.svg?style=for-the-badge&logo=Flyway&logoColor=white)
 ![hibernate](https://img.shields.io/badge/Hibernate-59666C.svg?style=for-the-badge&logo=Hibernate&logoColor=white)
 
+![javascript](https://img.shields.io/badge/javascript-B5B509.svg?style=for-the-badge&logo=Javascript&logoColor=white)
+![html](https://img.shields.io/badge/Html-F05C11.svg?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/css-110D98.svg?style=for-the-badge&logo=Css3&logoColor=white)
+
 ## 📬 Connect with me! 
 </div>
   <div align="center">
