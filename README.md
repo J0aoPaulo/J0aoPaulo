@@ -1,13 +1,63 @@
 <div align="center">
   
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> hello, I'm João Paulo! </h2>
+
 <div align="center">
-<p>◆ i'm a backend developer, passionate about technology since i was a child. ◇</p>
-<p>◆ my career is marked by the development using technologies such as java, spring boot among others stacks ◇</p>
-<p>◆ my ability to learn quickly allows me to adapt to new content and challenges efficiently. ◇</p>
-<p>◆ currently studying cloud, docker, and devops technologies. ◇</p>
-<p>◆ btw, i love music... like, for real.◇</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=font=Fugaz+One&pause=1000&color=007bff&center=true&width=435&lines=Backend+Developer;Information+Systems"/>
+  </p>
+
+---
+
+- **I'm a backend developer, passionate about technology since I was a child.**  
+- My career is marked by development using technologies such as **Java**, **Spring Boot**, and other stacks.  
+- I have a quick learning ability that allows me to adapt efficiently to new content and challenges.
+---
+
+**Currently studying:**  
+<p align="center" style="margin: 5px; font-size: 16px; color: #333; background-color: #e6e6fa; padding: 10px; border-radius: 5px;">
+  
+  ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+  ![Cloud](https://img.shields.io/badge/Cloud-orange?style=for-the-badge&logo=googlecloud&logoColor=white)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![DevOps](https://img.shields.io/badge/DevOps-363535?style=for-the-badge&logo=kubernetes&logoColor=white)
+  ![Microservices](https://img.shields.io/badge/Microservices-purple?style=for-the-badge&logoColor=white)
+
+</p>
+
+---
+
+_btw, i love music... like, for real._
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,6&height=100&section=footer"/>
 </div>
+
+## 📘 My best projects
+<p align="center">
+  
+<a href="https://github.com/J0aoPaulo/hermes">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=J0aoPaulo&repo=hermes&theme=react&bg_color=00000f&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false">
+  <img width="272" height="135" alt="hermes" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=J0aoPaulo&repo=hermes&theme=react&bg_color=f6f8fa&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false&text_color=000000">
+</picture>
+</a>
+
+<a href="https://github.com/J0aoPaulo/vivere">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=J0aoPaulo&repo=vivere&theme=react&bg_color=00000f&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false">
+      <img width="272" height="135" alt="vivere" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=J0aoPaulo&repo=vivere&theme=react&bg_color=f6f8fa&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false&text_color=000000">
+    </picture>
+</a>
+
+<a href="https://github.com/J0aoPaulo/vivere">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=J0aoPaulo&repo=rest-api-forum&theme=react&bg_color=00000f&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false">
+      <img width="272" height="135" alt="vivere" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=J0aoPaulo&repo=vivere&theme=react&bg_color=f6f8fa&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false&text_color=000000">
+    </picture>
+</a>
+
+<p/>
+
 
 ## 🛠 Technologies and tools:
 
