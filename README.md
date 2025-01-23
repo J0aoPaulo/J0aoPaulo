@@ -54,6 +54,9 @@
       <img width="272" height="135" alt="rest-api-forum" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=J0aoPaulo&repo=rest-api-forum&theme=react&bg_color=f6f8fa&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false&text_color=000000">
     </picture>
 </a>
+
+<p align="center">
+  <a href="https://github.com/J0aoPaulo?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 <p/>
 
 ## 🛠 Technologies and tools:
