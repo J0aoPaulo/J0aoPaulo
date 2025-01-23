@@ -10,8 +10,8 @@
 
 ---
 
-- **I'm a backend developer, passionate about technology since I was a child.**  
-- My career is marked by development using technologies such as **Java**, **Spring Boot**, and other stacks.  
+- I'm a backend developer, passionate about technology since I was a child.
+- My career is marked by development using technologies such as **Java**, **Spring Boot**, **React** and other stacks.  
 - I have a quick learning ability that allows me to adapt efficiently to new content and challenges.
 ---
 
