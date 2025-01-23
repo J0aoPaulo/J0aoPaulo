@@ -3,7 +3,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> hello, I'm João Paulo! </h2>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,6&height=100&section=header"/>
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=font=Fugaz+One&pause=1000&color=007bff&center=true&width=435&lines=Backend+Developer;Information+Systems"/>
   </p>
@@ -55,9 +55,7 @@ _btw, i love music... like, for real._
       <img width="272" height="135" alt="vivere" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=J0aoPaulo&repo=vivere&theme=react&bg_color=f6f8fa&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false&text_color=000000">
     </picture>
 </a>
-
 <p/>
-
 
 ## 🛠 Technologies and tools:
 
