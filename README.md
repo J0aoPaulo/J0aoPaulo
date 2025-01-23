@@ -13,6 +13,7 @@
 - I'm a backend developer, passionate about technology since I was a child.
 - My career is marked by development using technologies such as **Java**, **Spring Boot**, **React** and other stacks.  
 - I have a quick learning ability that allows me to adapt efficiently to new content and challenges.
+- _btw, i love music... like, for real._
 ---
 
 **Currently studying:**  
@@ -27,8 +28,6 @@
 </p>
 
 ---
-
-_btw, i love music... like, for real._
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,6&height=100&section=footer"/>
 </div>
 
@@ -49,10 +48,10 @@ _btw, i love music... like, for real._
     </picture>
 </a>
 
-<a href="https://github.com/J0aoPaulo/vivere">
+<a href="https://github.com/J0aoPaulo/rest-api-forum">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=J0aoPaulo&repo=rest-api-forum&theme=react&bg_color=00000f&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false">
-      <img width="272" height="135" alt="vivere" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=J0aoPaulo&repo=vivere&theme=react&bg_color=f6f8fa&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false&text_color=000000">
+      <img width="272" height="135" alt="rest-api-forum" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=J0aoPaulo&repo=rest-api-forum&theme=react&bg_color=f6f8fa&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false&text_color=000000">
     </picture>
 </a>
 <p/>
