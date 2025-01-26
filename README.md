@@ -1,15 +1,9 @@
 <div align="center">
+<div align="center">
   
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> hello, I'm João Paulo! </h2>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,6&height=100&section=header"/>
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=font=Fugaz+One&pause=1000&color=007bff&center=true&width=435&lines=Backend+Developer;Information+Systems"/>
-  </p>
-
----
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=font=Fugaz+One&pause=300&color=007bff&center=true&width=400&lines=Information+Systems;Backend+Developer;DevOps"/>
+  
 - I'm a backend developer, passionate about technology since I was a child.
 - My career is marked by development using technologies such as **Java**, **Spring Boot**, **React** and other stacks.  
 - I have a quick learning ability that allows me to adapt efficiently to new content and challenges.
@@ -28,7 +22,6 @@
 </p>
 
 ---
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,6&height=100&section=footer"/>
 </div>
 
 ## 📘 My best projects
@@ -59,24 +52,13 @@
 ## 🛠 Technologies and tools:
 
 <img align="center" alt="Carol-GIF" height="120" width="130" src="https://i.pinimg.com/originals/1a/56/ea/1a56eaaaf78869d7c6e0e620b2b98394.gif">
-  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring-Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white)
-![spring-security](https://img.shields.io/badge/Spring%20Security-6DB33F.svg?style=for-the-badge&logo=Spring-Security&logoColor=white)
-![sqlite](https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white)
-![c++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)
-![hibernate](https://img.shields.io/badge/Hibernate-59666C.svg?style=for-the-badge&logo=Hibernate&logoColor=white)
 
-![Docker](https://img.shields.io/badge/Docker-0900FF.svg?style=for-the-badge&logo=docker&logoColor=white)
-![postgre](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
-![mysql](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
-![ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white)
-![git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
-![flyway](https://img.shields.io/badge/Flyway-CC0200.svg?style=for-the-badge&logo=Flyway&logoColor=white)
 
-![javascript](https://img.shields.io/badge/javascript-B5B509.svg?style=for-the-badge&logo=Javascript&logoColor=white)
-![html](https://img.shields.io/badge/Html-F05C11.svg?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/css-110D98.svg?style=for-the-badge&logo=Css3&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgresql,mysql,ubuntu,react,sqlite,css,cpp,docker,javascript,html,git&perline=7" />
+  </a>
+</p>
 
 ## 📬 Connect with me! 
 </div>
@@ -86,8 +68,6 @@
     <a href="mailto:contato.joaopaulodeveloper@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ## 📊 GitHub Stats:
-<a href="https://github.com/J0aoPaulo">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=J0aoPaulo&show_icons=true&theme=dark&hide_rank=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J0aoPaulo&layout=compact&theme=dark"/>
+![](https://raw.githubusercontent.com/J0aoPaulo/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/J0aoPaulo/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 </div>
-
