@@ -27,28 +27,6 @@
 ## 📘 My best projects
 <p align="center">
 
-<a href="https://github.com/J0aoPaulo/hermes">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=J0aoPaulo&repo=hermes&theme=react&bg_color=00000f&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false">
-  <img width="272" height="135" alt="hermes" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=J0aoPaulo&repo=hermes&theme=react&bg_color=f6f8fa&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false&text_color=000000">
-</picture>
-</a>
-
-<a href="https://github.com/J0aoPaulo/vivere">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=J0aoPaulo&repo=vivere&theme=react&bg_color=00000f&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false">
-      <img width="272" height="135" alt="vivere" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=J0aoPaulo&repo=vivere&theme=react&bg_color=f6f8fa&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false&text_color=000000">
-    </picture>
-</a>
-
-<a href="https://github.com/J0aoPaulo/rest-api-forum">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=J0aoPaulo&repo=rest-api-forum&theme=react&bg_color=00000f&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false">
-      <img width="272" height="135" alt="rest-api-forum" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=J0aoPaulo&repo=rest-api-forum&theme=react&bg_color=f6f8fa&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false&text_color=000000">
-    </picture>
-</a>
-<p/>
-
 ## 🛠 Technologies and tools:
 
 <img align="center" alt="Carol-GIF" height="120" width="130" src="https://i.pinimg.com/originals/1a/56/ea/1a56eaaaf78869d7c6e0e620b2b98394.gif">
