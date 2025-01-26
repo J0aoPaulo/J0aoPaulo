@@ -26,7 +26,7 @@
 
 ## 📘 My best projects
 <p align="center">
-  
+
 <a href="https://github.com/J0aoPaulo/hermes">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=J0aoPaulo&repo=hermes&theme=react&bg_color=00000f&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false">
