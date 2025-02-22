@@ -2,9 +2,9 @@
 <div align="center">
   
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> hello, I'm João Paulo! </h2>
-  <img src="https://readme-typing-svg.herokuapp.com?font=font=Fugaz+One&pause=300&color=007bff&center=true&width=400&lines=Information+Systems;Backend+Developer;DevOps"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=font=Fugaz+One&pause=300&color=007bff&center=true&width=400&lines=Information+Systems;FullStack+Developer;DevOps"/>
   
-- I'm a backend developer, passionate about technology since I was a child.
+- I'm a FullStack developer, passionate about technology since I was a child.
 - My career is marked by development using technologies such as **Java**, **Spring Boot**, **React** and other stacks.  
 - I have a quick learning ability that allows me to adapt efficiently to new content and challenges.
 - _btw, i love music... like, for real._
