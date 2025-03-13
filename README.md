@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=font=Fugaz+One&pause=300&color=007bff&center=true&width=400&lines=Information+Systems;Backend+Developer;DevOps"/>
   
 - I'm a FullStack developer, passionate about technology since I was a child.
-- My career is marked by development using technologies such as **Java**, **Spring Boot**, **React** and other stacks.  
+- My career is marked by development using technologies such as **Java**, **Spring Boot**, **Angular** and other stacks.  
 - I have a quick learning ability that allows me to adapt efficiently to new content and challenges.
 - _btw, i love music... like, for real._
 ---
