@@ -55,7 +55,6 @@
 
 <img align="center" alt="Carol-GIF" height="120" width="130" src="https://i.pinimg.com/originals/1a/56/ea/1a56eaaaf78869d7c6e0e620b2b98394.gif">
 
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgresql,mysql,ubuntu,react,sqlite,css,cpp,docker,javascript,html,git&perline=7" />
