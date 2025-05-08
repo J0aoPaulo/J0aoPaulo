@@ -54,6 +54,12 @@
       <img width="272" height="135" alt="vivere" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=J0aoPaulo&repo=blog-maker&theme=react&bg_color=f6f8fa&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=true&text_color=000000">
     </picture>
   </a>
+  <a href="https://github.com/J0aoPaulo/blog-maker-front">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=J0aoPaulo&repo=blog-maker-front&theme=react&bg_color=00000f&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=true">
+      <img width="272" height="135" alt="vivere" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=J0aoPaulo&repo=blog-maker-front&theme=react&bg_color=f6f8fa&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=true&text_color=000000">
+    </picture>
+  </a>
 </a>
 <p/>
 
