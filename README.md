@@ -27,6 +27,12 @@
 ## 📘 My best projects
 <p align="center">
 
+<a href="https://github.com/LLMontreal/llmontreal-backend">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLMontreal&repo=llmontreal-backend&theme=react&bg_color=00000f&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=true">
+  <img width="272" height="135" alt="llmontreal" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LLmontreal&repo=llmontreal&theme=react&bg_color=f6f8fa&title_color=007bff&icon_color=F8D866&hide_border=true&show_icons=false&text_color=000000">
+</picture>
+</a>
 
 <a href="https://github.com/J0aoPaulo/hermes">
 <picture>
